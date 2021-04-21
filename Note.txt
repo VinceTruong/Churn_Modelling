@@ -1,0 +1,11 @@
+- df = pd.load_csv
+- drop 3 cột đầu
+- convert 'Gender' to 0, 1
+- Geography -> 3 cột -> xóa 1 cột
+
+- X = df.drop('Exited', axis=1)
+- y = df['Exited']
+
+- Giống thầy
+
+- Sáng tạo
