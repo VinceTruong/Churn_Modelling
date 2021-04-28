@@ -1,0 +1,3 @@
+- Shape
+- Remove the first 3 columns
+- Statistical Data Analysis (Histogram, bar) -> Comment
