@@ -1,3 +1,5 @@
 - Shape
 - Remove the first 3 columns
-- Statistical Data Analysis (Histogram, bar) -> Comment
+- Data Description(info, describe, corr_matrix, classify datatype of columns)
+- Statistical Data Analysis (Histogram, bar, boxplot) -> Comment
+- Data Cleaning and Transformation (outliers, dummy)
