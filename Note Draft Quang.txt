@@ -1,0 +1,17 @@
+1. Univariate
+2. Visualisation (univariate and bivariate)
+ + histogram
+ + box plot
+ + corelation matrix
+3. Data Preparation
+ + make dummy
+ + cleaning and joining
+4 . Data Modelling
+ + Prepare train and test set
+ + general evaluation by accuracy and ROC Curve
+ + pick up three best models ( LM,LDA and Gaussian)
+5. Develop model
+ + general visualisation
+ + reduce logistic model by checking parameter siginificance (using chi square test)
+ + reduce model by checking outliers
+6. Conclusion
