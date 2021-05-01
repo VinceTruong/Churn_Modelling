@@ -1,0 +1,43 @@
+- Statistics Summary
+    + Data Dictionary
+    + Information (info, null, describe)
+    + Corr_matrix
+
+- EDA
+    + Continuous: Histogram, Box plot (groupby)
+    + Ordinal, Nominal: Bar char
+
+- Data Cleaning and Preparation:
+    *Data Cleaning
+    + Drop 3 columns
+    + Geography
+    + Gender
+    + Drop (explain)
+    + Check info again
+    *Preparation:
+    + Check outlier (graph, delete)
+
+- Fit models
+    + Test Accuracy
+    + boxplot algorithm comparison
+    + Comment (unbalance -> cannot use)
+    + ROC_curve, Precision Recall (**)
+    + Choose 4 models 
+
+- Each model:
+    + Như thầy
+
+- Conclusion:
+    + Explain (unbalance -> maxi recall) (**)
+
+- Additional Information:
+    + Feature important for ... (**)
+    + Compare
+    + Tree model
+
+
+
+
+
+
+
