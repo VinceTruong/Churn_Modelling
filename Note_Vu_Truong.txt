@@ -4,3 +4,4 @@
 - Exploratory Data Analysis (Histogram, bar, boxplot, pie) -> Comment
 - Data Cleaning and Transformation (outliers, dummy)
 - Build Model (LR, LDA, SVM)
+- Dealing with accuracy??
