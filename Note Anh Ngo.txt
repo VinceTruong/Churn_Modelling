@@ -1,0 +1,25 @@
+1. Data cleaning
+- drop column RowNumber, CustomerID, Surname
+- get dummy variables in column 'Geography'
+- Male = 1, Female =0 in column ' Gender'
+
+2. Data preprocessing
+- draw pie chart --> unbalanced classes
+- set baseline
+
+3. Descriptive analysis
+- Statistics of each column
+- Correlation matrix & visualize 
+- Histogram
+- Box plot for each column
+- Box plot for each column group by Exited column
+
+4. Null values and transformation
+- Check null values
+- Deal with extreme outliers 
+
+5. Fit models
+--> LDA, SVM, NB, LR
+- find intercept + coefficient
+- accuracy score + confusion matrix + classification report
+- ROC curve, Precision-Recall curve
