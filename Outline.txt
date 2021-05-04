@@ -1,13 +1,13 @@
-- Statistics Summary
+- Statistics Summary (Thanh)
     + Data Dictionary
     + Information (info, null, describe)
     + Corr_matrix
 
-- EDA
+- EDA (Vu)
     + Continuous: Histogram, Box plot (groupby)
     + Ordinal, Nominal: Bar char
 
-- Data Cleaning and Preparation:
+- Data Cleaning and Preparation: (Vu)
     *Data Cleaning
     + Drop 3 columns
     + Geography
@@ -17,7 +17,7 @@
     *Preparation:
     + Check outlier (graph, delete)
 
-- Fit models
+- Fit models (MAnh)
     + Test Accuracy
     + boxplot algorithm comparison
     + Comment (unbalance -> cannot use)
@@ -30,7 +30,7 @@
 - Conclusion:
     + Explain (unbalance -> maxi recall) (**)
 
-- Additional Information:
+- Additional Information: (Quang)
     + Feature important for ... (**)
     + Compare
     + Tree model
