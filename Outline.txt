@@ -1,43 +1,30 @@
-- Statistics Summary (Thanh)
-    + Data Dictionary
-    + Information (info, null, describe)
-    + Corr_matrix
+I) DATA EXPLORATION: (Thanh)
+	IMPORT LIBRARIES AND DATASET
+	GENERAL DESCRIPTION
+	CORRELATION MATRIX
+	EXPLORATORY DATA ANALYSIS
 
-- EDA (Vu)
-    + Continuous: Histogram, Box plot (groupby)
-    + Ordinal, Nominal: Bar char
+II) DATA CLEANING AND PREPROCESSING: (Vu)
+	DATA CLEANING
+	PREPROCESSING
+	DEALING WITH OUTLIERS
 
-- Data Cleaning and Preparation: (Vu)
-    *Data Cleaning
-    + Drop 3 columns
-    + Geography
-    + Gender
-    + Drop (explain)
-    + Check info again
-    *Preparation:
-    + Check outlier (graph, delete)
+III) TESTING MULTIPLE MODELS (MAnh)
+	SPLITTING THE DATASET
+	BUILDING AND TESTING MODEL
+	ROC CURVE FOR COMPARISION
+	PRECISION - RECALL CURVE
+	CHOOSING MODELS
 
-- Fit models (MAnh)
-    + Test Accuracy
-    + boxplot algorithm comparison
-    + Comment (unbalance -> cannot use)
-    + ROC_curve, Precision Recall (**)
-    + Choose 4 models 
+IV) FIT MODELS (Thanh)
+	A - LINEAR DISCRIMINANT ANALYSIS
+	B - LOGISTIC REGRESSION
+	C - GAUSSIAN NAIVE BAYES
+	D - K-NEAREAST NEIGHBORS
 
-- Each model:
-    + Như thầy
+V) CONCLUSION (Quang)
 
-- Conclusion:
-    + Explain (unbalance -> maxi recall) (**)
-
-- Additional Information: (Quang)
-    + Feature important for ... (**)
-    + Compare
-    + Tree model
-
-
-
-
-
-
-
+VI) ADDITIONAL INFORMATION
+	LDA REDUCED MODEL (Quang)
+	DECISION TREE MODEL (Quang)
+	DEFINING THRESHOLD (Vu)
