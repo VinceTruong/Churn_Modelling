@@ -3,9 +3,9 @@ This project is created by 4 students: Vu Truong, Quang Huynh, Anh Ngo, Thanh Ng
 
 Implementing Machine Learning models and statistical methods to predict the churn target based on 10,000 sample of customer information. Using Python and its library (NumPy, Pandas, Matplotlib, Scikit - learn) to evaluate the most appropriate model, which has accuracy of above 80%. Generating a report to communicate and interpret the results to business users
 
-OUTLINE
+**OUTLINE**
 
-I) Data Exploration: (Thanh)
+**I) Data Exploration: (Thanh)**
 
 Import libraries and dataset
 
@@ -15,7 +15,7 @@ Correlation matrix
 
 Exploratory Data Analysis (EDA)
 
-II) Data Cleaning and Preprocessing: (Vu)
+**II) Data Cleaning and Preprocessing: (Vu)**
 
 Data Cleaning
 
@@ -23,7 +23,7 @@ Preprocessing
 
 Dealing with outliers
 
-III) Testing multiple models (Anh)
+**III) Testing multiple models (Anh)**
 
 Splitting the dataset
 
@@ -35,7 +35,7 @@ Precision – Recall curve
 
 Choosing models
 
-IV) Fit models (Thanh)
+**IV) Fit models (Thanh)**
 
 A – Linear Discriminant Analysis
 
@@ -45,9 +45,9 @@ C – Gaussian Naïve Bayes
 
 D – K-Nearest Neighbors
 
-V) Conclusion (Quang)
+**V) Conclusion (Quang)**
 
-VI) Additional Information
+**VI) Additional Information**
 
 LDA Reduced Model (Quang)
 
